@@ -1,4 +1,4 @@
 # npm4
-Npm. But better.
+Npm. But 4 x better.
 
 Install: `npm i npm4`
